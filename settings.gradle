@@ -1,0 +1,2 @@
+rootProject.name = 'Women-Safety-App-Rebuilt'
+include ':app'
